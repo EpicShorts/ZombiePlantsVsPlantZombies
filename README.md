@@ -13,3 +13,8 @@ Extra Multiplayer Packages:
 - Multiplayer Services
 - Multiplayer Widgets
 - Multiplayer Play Mode
+
+## Dev Diary 
+### 04/09/2025
+We have local multiplayer using the Inbuild NGO Setup from the Unity Packages  
+<img width="1909" height="1030" alt="image" src="https://github.com/user-attachments/assets/da360787-9645-4698-afb6-8170e4946f80" />
